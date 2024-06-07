@@ -10,7 +10,7 @@
 - 👀 I’m interested in Web application development using Javascript/Typescript, C#, React/Next, Node, Express/Nest, Mobile Development and ASP.NET Core.
 - 🌱 I’m currently learning Blockchain and ASP.NET Core
 - 🔭 I’m currently working on Upwork.
-- 📫 How to reach me dmitro.softdev@gmail.com.
+- 📫 How to reach me dmytro.voitiukk@gmail.com.
 
 <!-- [![](https://visitcount.itsvg.in/api?id=xuanming-l&label=Visitors&icon=5&pretty=false)](https://visitcount.itsvg.in) -->
 <!-- [![](https://visitcount.itsvg.in/api?id=xuanming-l&label=Visitors&icon=5&pretty=true)](https://visitcount.itsvg.in) -->
